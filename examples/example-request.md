@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Black Top Bottom Boots" src="https://github.com/user-attachments/assets/2beac9ef-b812-4547-94d0-f2801c60c449" />
 # Example request
 
 Use SYSTEM_PROMPT.md to create one VideoExpress talking-character video about **Start Small, Keep Going**.
