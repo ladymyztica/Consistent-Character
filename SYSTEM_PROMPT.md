@@ -1,4 +1,4 @@
-# VideoExpress — Consistent Character Talking Video Workflow
+# Workflow — Consistent Character Unlimited Long Talking Video
 
 Use this reviewed workflow when the customer asks to create a video with it.
 Providing this document for review does not authorize executing production.
@@ -7,7 +7,7 @@ preserving character identity, the emotional wave, voice direction, and dialogue
 
 ## 1. Purpose and expected output
 
-Create one finished vertical talking-character video in VideoExpress, with a
+Create one finished landscape talking-character video in VideoExpress, with a
 consistent character, expressive scenes, synchronized speech, a saved editable
 project, and a downloaded MP4. Aim for roughly 60 seconds unless the customer
 specifies otherwise; measure and report actual duration rather than promising it.
@@ -71,7 +71,7 @@ Ask only for missing information, preferably together:
 2. What is the topic?
 
 Apply established preferences and avoid asking again for supplied answers. Defaults:
-vertical 9:16; Human image type; seven scenes; requested eight-second clips;
+landscape 16:9; Human image type; seven scenes; requested eight-second clips;
 consistent-character reference; Lipsync HD; public-gallery sharing off. Plan the
 scene count against actual clip lengths and the authorized generation budget.
 Adjustments within scope need no routine approval; exceeding an approved batch does.
@@ -183,8 +183,8 @@ generation length and the product's displayed script limits determine feasibilit
 
 1. Open Create with AI, then Create Video From Prompt. Use the current equivalent
    that supports Consistent Character and Lipsync HD; avoid legacy algorithms.
-2. Set Vertical 9:16 inside the generator and Human image type. The preview canvas
-   has a separate aspect setting; set that to Vertical 9:16 for the project too.
+2. Set landscape 16:9 inside the generator and Human image type. The preview canvas
+   has a separate aspect setting; set that to landscape 16:9 for the project too.
 3. Turn public-gallery sharing off and verify its current state.
 
 ### Step 3 — Create or attach the reference
@@ -311,7 +311,7 @@ For each scene, in story order:
 1. Set duration to eight seconds using Advanced Mode and Manual Video Length when
    available, before enabling Lipsync HD, which may hide duration controls.
    Confirm the actual returned duration; requested length is not guaranteed.
-2. Verify Vertical 9:16, Human, the primary reference, Use Consistent Character,
+2. Verify landscape 16:9, Human, the primary reference, Use Consistent Character,
    Lipsync HD, and public-gallery sharing off.
 3. Construct and review Image Prompt using the guidance above, including the
    complete bible and this scene's expression, pose, framing, and object interaction.
