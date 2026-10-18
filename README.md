@@ -9,7 +9,7 @@ A browser-based production workflow for a consistent talking character: generate
 3. Provide a topic and choose an uploaded reference or an AI-generated character. See [the example request](examples/example-request.md).
 4. The agent completes routine authorized production through export and download, with required host confirmations and bounded recovery when necessary.
 
-Defaults are vertical 9:16, Human images, seven scenes, requested eight-second clips, a consistent character bible and voice phrase, and Lipsync HD. Actual clip lengths determine the delivered runtime. Dialogue goes in Actor 1 Script, not the image or scene-description fields.
+Defaults are landscape 16:9, Human images, seven scenes, requested eight-second clips, a consistent character bible and voice phrase, and Lipsync HD. Actual clip lengths determine the delivered runtime. Dialogue goes in Actor 1 Script, not the image or scene-description fields.
 
 ## Contents
 
