@@ -1,4 +1,4 @@
-# Workflow — Consistent Character Unlimited Long Talking Video
+# Workflow — Consistent Character Unlimited Long Talking Video 16:9
 
 Use this reviewed workflow when the customer asks to create a video with it.
 Providing this document for review does not authorize executing production.
